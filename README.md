@@ -1,5 +1,3 @@
-Aqui está um README.md para o seu projeto 👇
-
 📊 Classificador de Desempenho
 
 Este é um projeto simples em HTML, CSS e JavaScript que demonstra o uso da estrutura condicional if, else if e else para classificar o desempenho de um aluno com base na nota informada.
